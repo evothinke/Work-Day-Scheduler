@@ -1,4 +1,9 @@
 <h1>Work Day Scheduler</h1>
+ <br>
+<a href="https://evothinke.github.io/Work-Day-Scheduler">Deployed website</a> <br>
+
+<a href="https://github.com/evothinke/Work-Day-Scheduler">Github Repository</a>
+<br><br>
 
 This is a work scheduler for the current day. It will store data entered by the user in each field after clicking the corresponding save button.
 It uses localSorage to temporarily store data.
